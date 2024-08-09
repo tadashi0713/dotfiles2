@@ -504,6 +504,24 @@
         "options": {
           "full_name": "google-cloud-sdk"
         }
+      },
+      "obsbot-center": {
+        "version": "2.0.9.26",
+        "options": {
+          "full_name": "obsbot-center"
+        }
+      },
+      "okta": {
+        "version": "0.10.0",
+        "options": {
+          "full_name": "oktadeveloper/tap/okta"
+        }
+      },
+      "cmd-eikana": {
+        "version": "2.2.3",
+        "options": {
+          "full_name": "cmd-eikana"
+        }
       }
     }
   },
