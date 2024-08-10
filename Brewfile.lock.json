@@ -522,6 +522,12 @@
         "options": {
           "full_name": "cmd-eikana"
         }
+      },
+      "rambox": {
+        "version": "2.3.4",
+        "options": {
+          "full_name": "rambox"
+        }
       }
     }
   },
