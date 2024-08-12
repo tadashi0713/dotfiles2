@@ -10,6 +10,7 @@ brew 'kubectx'
 brew 'helm'
 brew 'azure-cli'
 brew 'git'
+brew 'asdf'
 
 cask 'visual-studio-code'
 cask 'iterm2'
