@@ -1,3 +1,5 @@
+tap 'weaveworks/tap'
+
 brew 'gh'
 brew 'tree'
 brew 'jq'
@@ -11,6 +13,7 @@ brew 'helm'
 brew 'azure-cli'
 brew 'git'
 brew 'asdf'
+brew 'weaveworks/tap/eksctl'
 
 cask 'visual-studio-code'
 cask 'iterm2'
