@@ -26,5 +26,3 @@ cask 'google-cloud-sdk'
 cask 'obsbot-center'
 cask 'cmd-eikana'
 cask 'rambox'
-
-mas 'Okta Verify', id: 490179405
