@@ -27,3 +27,5 @@ cask 'obsbot-center'
 cask 'cmd-eikana'
 cask 'rambox'
 cask 'elgato-stream-deck'
+cask 'elgato-control-center'
+
