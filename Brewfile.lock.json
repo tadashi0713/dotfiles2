@@ -570,6 +570,10 @@
             }
           }
         }
+      },
+      "heroku/brew/heroku": {
+        "version": "9.2.0",
+        "bottle": false
       }
     },
     "cask": {
@@ -673,7 +677,7 @@
   "system": {
     "macos": {
       "sonoma": {
-        "HOMEBREW_VERSION": "4.3.18",
+        "HOMEBREW_VERSION": "4.3.19",
         "HOMEBREW_PREFIX": "/opt/homebrew",
         "Homebrew/homebrew-core": "api",
         "CLT": "15.3.0.0.1.1708646388",

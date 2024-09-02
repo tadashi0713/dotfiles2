@@ -15,6 +15,7 @@ brew 'git'
 brew 'asdf'
 brew 'weaveworks/tap/eksctl'
 brew 'mas'
+brew 'heroku/brew/heroku'
 
 cask 'visual-studio-code'
 cask 'iterm2'
