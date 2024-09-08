@@ -16,6 +16,7 @@ brew 'asdf'
 brew 'weaveworks/tap/eksctl'
 brew 'mas'
 brew 'heroku/brew/heroku'
+brew 'postgresql@16'
 
 cask 'visual-studio-code'
 cask 'iterm2'
@@ -29,4 +30,3 @@ cask 'cmd-eikana'
 cask 'rambox'
 cask 'elgato-stream-deck'
 cask 'elgato-control-center'
-
