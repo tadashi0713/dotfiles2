@@ -1,4 +1,5 @@
 tap 'weaveworks/tap'
+tap 'koyeb/tap'
 
 brew 'gh'
 brew 'tree'
@@ -17,6 +18,7 @@ brew 'weaveworks/tap/eksctl'
 brew 'mas'
 brew 'heroku/brew/heroku'
 brew 'postgresql@16'
+brew 'koyeb'
 
 cask 'visual-studio-code'
 cask 'iterm2'
