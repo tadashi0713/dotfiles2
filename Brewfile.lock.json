@@ -749,6 +749,12 @@
         "options": {
           "full_name": "microsoft-teams"
         }
+      },
+      "ankerwork": {
+        "version": "3.0.4",
+        "options": {
+          "full_name": "ankerwork"
+        }
       }
     },
     "tap": {
